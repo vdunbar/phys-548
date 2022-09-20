@@ -22,13 +22,15 @@ mathew.vis-dunbar@ubc.ca
 
 ---
 
-
+Bascially anything. Words, figures, tables etc.
 
 ---
 
 ## How Much Can I Use?
 
+---
 
+Not very much
 
 ---
 
@@ -40,6 +42,7 @@ mathew.vis-dunbar@ubc.ca
 ## Fair Dealing & Your Thesis
 
 
+https://copyright.ubc.ca/theses-and-dissertations/
 
 Note:
 
@@ -51,18 +54,9 @@ Fair Dealing gives you a bit of wriggle room:
 
 ## What is Fair?
 
-
----
-
-## Copyright & Fair Dealing
-
-
-
 ---
 
 ## Copyright & Publishing Thesis Chapters
-
-
 
 Note:
 
@@ -72,7 +66,11 @@ I'm not going to get into this in any depth, but want to highlight that there is
 
 ## It's Not Simple
 
-* 
+That's why there's help
+
+Marjorie Mitchell | marjorie.mitchell@ubc.ca
+
+https://csc.ok.ubc.ca
 
 Note:
 
@@ -84,7 +82,11 @@ Copyright at UBC has a page dedicated to copyright and your thesis
 
 ## Licence Your Own Work
 
+Creative Commons
 
+Marjorie Mitchell | marjorie.mitchell@ubc.ca
+
+Donna Langille | donna.langille@ubc.ca
 
 Note:
 
@@ -118,7 +120,10 @@ But we should look a bit more closely at those aspects that might more directly 
 
 ## Academic Profiles
 
-* 
+* ORCIDs
+* Google Scholar Profile
+* ResearcherID (Web of Science)
+* Author ID (Scopus)
 
 Note:
 
@@ -138,15 +143,10 @@ Google Scholar does a great job of trying to amass works that you've authored an
 
 ---
 
-## Academic Profiles
-
-
-
----
-
 ## Where, How & What to Publish
 
-
+* Discoverability
+* Connected
 
 Note:
 
@@ -244,15 +244,6 @@ Research Data Management is an astronomical topic. It boils down to:
 * Consider options for depositing data, either to contribute to a larger repository (GenBank), to support a publication (Dataverse or Dryad), or simply for transparency and reproducibility (OSF, Dataverse, Zenodo)
 * Make sure people know how to use your data!
   
----
-
-## RDM Fall Series 2021
-
-* 
-
-  Note:
-
-  We do have a full suite of workshops coming up on RDM though as part of UBC's RDM Fall Series which brings together the Library and Advanced Research Computing and covers topics including
 ---
 
 # PubMed
